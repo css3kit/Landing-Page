@@ -6,5 +6,5 @@
 ### Screenshot:
 
 <div align="center">
-<img src="screenshots/Landing_Page.png">
+<img src="screenshots/Landing-Page.png">
 </div>
